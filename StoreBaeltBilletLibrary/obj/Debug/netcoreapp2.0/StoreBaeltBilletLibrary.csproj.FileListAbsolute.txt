@@ -1,0 +1,11 @@
+C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.deps.json
+C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.dll
+C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.pdb
+C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.dll
+C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.xml
+C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.csproj.CoreCompileInputs.cache
+C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.AssemblyInfoInputs.cache
+C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.AssemblyInfo.cs
+C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.csproj.CopyComplete
+C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.dll
+C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.pdb

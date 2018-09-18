@@ -1,0 +1,74 @@
+{
+  "C:\\source\\BilletLibrary\\storebaeltlibrary-serubi\\UnitTest\\bin\\Debug\\netcoreapp2.0\\StoreBaeltBilletLibrary.dll": {
+    "C:\\source\\BilletLibrary\\storebaeltlibrary-serubi\\StoreBaeltBilletLibrary\\StorebæltBil.cs": {
+      "StoreBaeltBilletLibrary.StorebæltBil": {
+        "System.Decimal StoreBaeltBilletLibrary.StorebæltBil::GetPrice()": {
+          "Lines": {
+            "29": 3,
+            "30": 3,
+            "31": 2,
+            "32": 2,
+            "34": 1,
+            "35": 3
+          },
+          "Branches": [
+            {
+              "Line": 30,
+              "Offset": 16,
+              "EndOffset": 18,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 30,
+              "Offset": 16,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 30,
+              "Offset": 40,
+              "EndOffset": 42,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 30,
+              "Offset": 40,
+              "EndOffset": 78,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void StoreBaeltBilletLibrary.StorebæltBil::.ctor(System.String,System.DateTime)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Void StoreBaeltBilletLibrary.StorebæltBil::.ctor(System.String,System.DateTime,System.Boolean)": {
+          "Lines": {
+            "16": 3,
+            "17": 3,
+            "18": 3,
+            "19": 3,
+            "20": 3,
+            "21": 3
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

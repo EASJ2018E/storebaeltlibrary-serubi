@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:BilletLibrary.Bil.Pris">
+            <summary>
+            Get price for vehicle
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Motorcykel.Pris">
+            <summary>
+            Get price for vehicle
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Motorcykel.Køretøj">
+            <summary>
+            Get vehicle type name
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:BilletLibrary.Vehicle">
+            <summary>
+            Abstract klasse som alle køretøjer nedarver fra
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.Vehicle.Pris">
+            <summary>
+            Abstract metode der angiver, hvad det koster for køretøjet at køre over broen.
+            Override denne metode i klassen som nedarver.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Vehicle.Køretøj">
+            <summary>
+            Navnet på køretøjstypen.
+            Default er "Bil".
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:BilletLibrary.Vehicle.Nummerplade">
+            <summary>
+            Nummerpladen på køretøjet
+            </summary>
+        </member>
+        <member name="P:BilletLibrary.Vehicle.Dato">
+            <summary>
+            Dato køretøjet kørte over broen
+            </summary>
+        </member>
+        <member name="P:BilletLibrary.Vehicle.Brobizz">
+            <summary>
+            Er Brobizz brugt til betaling?
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.Vehicle.#ctor">
+            <summary>
+            Default constructor
+            </summary>
+        </member>
+    </members>
+</doc>
