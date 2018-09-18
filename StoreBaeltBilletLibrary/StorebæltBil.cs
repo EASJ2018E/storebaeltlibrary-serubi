@@ -5,7 +5,11 @@ namespace StoreBaeltBilletLibrary
 {
     public class StorebæltBil : Bil
     {
-        // Constructor
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="nummerplade">Nummerplade på max 7 tegn</param>
+        /// <param name="dato">Dato køretøjet kørte over broen</param>
         public StorebæltBil(string nummerplade, DateTime dato) : base(nummerplade, dato)
         {
             Nummerplade = nummerplade;
@@ -13,6 +17,12 @@ namespace StoreBaeltBilletLibrary
             Brobizz = false;
         }
 
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="nummerplade">Nummerplade på max 7 tegn</param>
+        /// <param name="dato">Dato køretøjet kørte over broen</param>
+        /// <param name="brobizz">Om Brobizz blev brugt til betaling</param>
         public StorebæltBil(string nummerplade, DateTime dato, bool brobizz) : base(nummerplade, dato, brobizz)
         {
             Nummerplade = nummerplade;
@@ -23,7 +33,6 @@ namespace StoreBaeltBilletLibrary
         /// <summary>
         /// Får den totale pris for en bil der kører over Storebælt
         /// </summary>
-        /// <param name="bil"></param>
         /// <returns>Total pris med weekend tilbud inkluderet</returns>
         public decimal GetPrice()
         {

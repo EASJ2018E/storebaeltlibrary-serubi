@@ -9,3 +9,4 @@ C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\obj\Deb
 C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.csproj.CopyComplete
 C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.dll
 C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.pdb
+C:\source\BilletLibrary\storebaeltlibrary-serubi\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.csprojResolveAssemblyReference.cache
